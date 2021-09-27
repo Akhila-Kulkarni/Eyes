@@ -1,6 +1,6 @@
 # Eyes
 
-<h1><img src="https://github.com/JoeEnrique/eyes/blob/main/eyesthatfollow.png" alt="Eyes" width="15%"></h1>
+<h1><img src="https://github.com/Akhila-Kulkarni/Eyes/blob/main/eyes.png" alt="Eyes" width="15%"></h1>
 
 Eyes that follow
 > Version 0.1
